@@ -1,0 +1,78 @@
+# depslib dependency file v1.0
+1593611113 source:c:\users\facu\desktop\facultad\prog i - lab i\trabajos por git\laboratorio 1\segundo parcial laboratorio\segundo parcial lab i\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1593615055 source:c:\users\facu\desktop\facultad\prog i - lab i\trabajos por git\laboratorio 1\segundo parcial laboratorio\segundo parcial lab i\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"LinkedList.h"
+	"Prototipos.h"
+
+1593611113 c:\users\facu\desktop\facultad\prog i - lab i\trabajos por git\laboratorio 1\segundo parcial laboratorio\segundo parcial lab i\linkedlist.h
+
+1593614510 c:\users\facu\desktop\facultad\prog i - lab i\trabajos por git\laboratorio 1\segundo parcial laboratorio\segundo parcial lab i\prototipos.h
+	"LinkedList.h"
+
+1593606789 source:c:\users\facu\desktop\facultad\prog i - lab i\trabajos por git\laboratorio 1\segundo parcial laboratorio\segundo parcial lab i\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Prototipos.h"
+
+1593614601 source:c:\users\facu\desktop\facultad\prog i - lab i\trabajos por git\laboratorio 1\segundo parcial laboratorio\segundo parcial lab i\paises.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Prototipos.h"
+
+1593607621 source:c:\users\facu\desktop\facultad\prog i - lab i\trabajos por git\laboratorio 1\segundo parcial laboratorio\segundo parcial lab i\cargar_datos_csv.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Prototipos.h"
+
+1593614669 source:c:\users\facu\desktop\facultad\prog i - lab i\trabajos por git\laboratorio 1\segundo parcial laboratorio\segundo parcial lab i\mostrar_pais_p.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Prototipos.h"
+
+1593614647 source:c:\users\facu\desktop\facultad\prog i - lab i\trabajos por git\laboratorio 1\segundo parcial laboratorio\segundo parcial lab i\mostrar_paises.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Prototipos.h"
+
+1593614254 source:c:\users\facu\desktop\facultad\prog i - lab i\trabajos por git\laboratorio 1\segundo parcial laboratorio\segundo parcial lab i\generar_aleatorios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"LinkedList.h"
+	"Prototipos.h"
+
+1593613837 source:c:\users\facu\desktop\facultad\prog i - lab i\trabajos por git\laboratorio 1\segundo parcial laboratorio\segundo parcial lab i\guardar_datos_csv.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"LinkedList.h"
+	"Prototipos.h"
+
+1593614884 source:c:\users\facu\desktop\facultad\prog i - lab i\trabajos por git\laboratorio 1\segundo parcial laboratorio\segundo parcial lab i\filtros.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"LinkedList.h"
+	"Prototipos.h"
+

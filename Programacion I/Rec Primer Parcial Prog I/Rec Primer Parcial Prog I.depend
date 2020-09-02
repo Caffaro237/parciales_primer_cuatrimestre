@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1594042072 source:c:\users\facu\desktop\facultad\prog i - lab i\trabajos por git\programacion 1\rec primer parcial prog i\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"prototipos.h"
+
+1594041881 c:\users\facu\desktop\facultad\prog i - lab i\trabajos por git\programacion 1\rec primer parcial prog i\prototipos.h
+
+1594040378 source:c:\users\facu\desktop\facultad\prog i - lab i\trabajos por git\programacion 1\rec primer parcial prog i\quitar_vocales.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"prototipos.h"
+
+1594040384 source:c:\users\facu\desktop\facultad\prog i - lab i\trabajos por git\programacion 1\rec primer parcial prog i\ordenar_caracteres.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"prototipos.h"
+
+1594040731 source:c:\users\facu\desktop\facultad\prog i - lab i\trabajos por git\programacion 1\rec primer parcial prog i\harcodear_paises.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"prototipos.h"
+	"harcodeo.h"
+
+1594041492 c:\users\facu\desktop\facultad\prog i - lab i\trabajos por git\programacion 1\rec primer parcial prog i\harcodeo.h
+
+1594042026 source:c:\users\facu\desktop\facultad\prog i - lab i\trabajos por git\programacion 1\rec primer parcial prog i\menu_paises.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"prototipos.h"
+
+1594042026 source:c:\users\facu\desktop\facultad\prog i - lab i\trabajos por git\programacion 1\rec primer parcial prog i\actualizar_muertos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"prototipos.h"
+

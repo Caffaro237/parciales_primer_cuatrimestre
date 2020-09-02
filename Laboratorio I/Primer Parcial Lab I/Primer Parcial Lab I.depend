@@ -1,0 +1,108 @@
+# depslib dependency file v1.0
+1589381595 source:c:\users\facu\desktop\facultad\prog i - lab i\trabajos practicos\primer parcial\primer parcial lab i\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"prototipos.h"
+
+1589381585 source:c:\users\facu\desktop\facultad\prog i - lab i\trabajos practicos\primer parcial\primer parcial lab i\alta_notebooks.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"prototipos.h"
+
+1589380410 c:\users\facu\desktop\facultad\prog i - lab i\trabajos practicos\primer parcial\primer parcial lab i\prototipos.h
+
+1589380522 source:c:\users\facu\desktop\facultad\prog i - lab i\trabajos practicos\primer parcial\primer parcial lab i\buscar_libre.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"prototipos.h"
+
+1589380969 source:c:\users\facu\desktop\facultad\prog i - lab i\trabajos practicos\primer parcial\primer parcial lab i\inicializar_noteboooks.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"prototipos.h"
+
+1589380547 source:c:\users\facu\desktop\facultad\prog i - lab i\trabajos practicos\primer parcial\primer parcial lab i\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"prototipos.h"
+
+1589381293 source:c:\users\facu\desktop\facultad\prog i - lab i\trabajos practicos\primer parcial\primer parcial lab i\mostrar_marcas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"prototipos.h"
+
+1589381293 source:c:\users\facu\desktop\facultad\prog i - lab i\trabajos practicos\primer parcial\primer parcial lab i\mostrar_notebooks.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"prototipos.h"
+
+1589380969 source:c:\users\facu\desktop\facultad\prog i - lab i\trabajos practicos\primer parcial\primer parcial lab i\cargar_descripcion_marca.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"prototipos.h"
+
+1589380969 source:c:\users\facu\desktop\facultad\prog i - lab i\trabajos practicos\primer parcial\primer parcial lab i\cargar_descripcion_tipo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"prototipos.h"
+
+1589381213 source:c:\users\facu\desktop\facultad\prog i - lab i\trabajos practicos\primer parcial\primer parcial lab i\mostrar_notebook.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"prototipos.h"
+
+1589381293 source:c:\users\facu\desktop\facultad\prog i - lab i\trabajos practicos\primer parcial\primer parcial lab i\mostrar_tipos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"prototipos.h"
+
+1589380524 source:c:\users\facu\desktop\facultad\prog i - lab i\trabajos practicos\primer parcial\primer parcial lab i\buscar_notebook.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"prototipos.h"
+
+1589380582 source:c:\users\facu\desktop\facultad\prog i - lab i\trabajos practicos\primer parcial\primer parcial lab i\menu_modificaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"prototipos.h"
+
+1589381146 source:c:\users\facu\desktop\facultad\prog i - lab i\trabajos practicos\primer parcial\primer parcial lab i\modificar_notebook.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"prototipos.h"
+
+1589380902 source:c:\users\facu\desktop\facultad\prog i - lab i\trabajos practicos\primer parcial\primer parcial lab i\baja_notebooks.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"prototipos.h"
+
+1589381293 source:c:\users\facu\desktop\facultad\prog i - lab i\trabajos practicos\primer parcial\primer parcial lab i\mostrar_servicios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"prototipos.h"
+
+1589379281 c:\users\facu\desktop\facultad\prog i - lab i\trabajos practicos\primer parcial\primer parcial lab i\harcodeo.h
+
+1589380435 source:c:\users\facu\desktop\facultad\prog i - lab i\trabajos practicos\primer parcial\primer parcial lab i\harcodear_notebooks.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"prototipos.h"
+	"harcodeo.h"
+

@@ -1,0 +1,192 @@
+# depslib dependency file v1.0
+1589938759 source:c:\users\facu\desktop\facultad\prog i - lab i\trabajos por git\primer parcial laboratorio parte 2\primer parcial lab i parte 2\alta_notebooks.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"prototipos.h"
+
+1589985174 c:\users\facu\desktop\facultad\prog i - lab i\trabajos por git\primer parcial laboratorio parte 2\primer parcial lab i parte 2\prototipos.h
+
+1589380902 source:c:\users\facu\desktop\facultad\prog i - lab i\trabajos por git\primer parcial laboratorio parte 2\primer parcial lab i parte 2\baja_notebooks.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"prototipos.h"
+
+1589380522 source:c:\users\facu\desktop\facultad\prog i - lab i\trabajos por git\primer parcial laboratorio parte 2\primer parcial lab i parte 2\buscar_libre.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"prototipos.h"
+
+1589380524 source:c:\users\facu\desktop\facultad\prog i - lab i\trabajos por git\primer parcial laboratorio parte 2\primer parcial lab i parte 2\buscar_notebook.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"prototipos.h"
+
+1589380969 source:c:\users\facu\desktop\facultad\prog i - lab i\trabajos por git\primer parcial laboratorio parte 2\primer parcial lab i parte 2\cargar_descripcion_marca.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"prototipos.h"
+
+1589380969 source:c:\users\facu\desktop\facultad\prog i - lab i\trabajos por git\primer parcial laboratorio parte 2\primer parcial lab i parte 2\cargar_descripcion_tipo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"prototipos.h"
+
+1589380435 source:c:\users\facu\desktop\facultad\prog i - lab i\trabajos por git\primer parcial laboratorio parte 2\primer parcial lab i parte 2\harcodear_notebooks.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"prototipos.h"
+	"harcodeo.h"
+
+1589985951 c:\users\facu\desktop\facultad\prog i - lab i\trabajos por git\primer parcial laboratorio parte 2\primer parcial lab i parte 2\harcodeo.h
+
+1589380969 source:c:\users\facu\desktop\facultad\prog i - lab i\trabajos por git\primer parcial laboratorio parte 2\primer parcial lab i parte 2\inicializar_noteboooks.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"prototipos.h"
+
+1589986291 source:c:\users\facu\desktop\facultad\prog i - lab i\trabajos por git\primer parcial laboratorio parte 2\primer parcial lab i parte 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"prototipos.h"
+
+1589977197 source:c:\users\facu\desktop\facultad\prog i - lab i\trabajos por git\primer parcial laboratorio parte 2\primer parcial lab i parte 2\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"prototipos.h"
+
+1589983918 source:c:\users\facu\desktop\facultad\prog i - lab i\trabajos por git\primer parcial laboratorio parte 2\primer parcial lab i parte 2\menu_modificaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"prototipos.h"
+
+1589983682 source:c:\users\facu\desktop\facultad\prog i - lab i\trabajos por git\primer parcial laboratorio parte 2\primer parcial lab i parte 2\modificar_notebook.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"prototipos.h"
+
+1589983986 source:c:\users\facu\desktop\facultad\prog i - lab i\trabajos por git\primer parcial laboratorio parte 2\primer parcial lab i parte 2\mostrar_marcas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"prototipos.h"
+
+1589983839 source:c:\users\facu\desktop\facultad\prog i - lab i\trabajos por git\primer parcial laboratorio parte 2\primer parcial lab i parte 2\mostrar_notebook.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"prototipos.h"
+
+1589984073 source:c:\users\facu\desktop\facultad\prog i - lab i\trabajos por git\primer parcial laboratorio parte 2\primer parcial lab i parte 2\mostrar_notebooks.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"prototipos.h"
+
+1589946958 source:c:\users\facu\desktop\facultad\prog i - lab i\trabajos por git\primer parcial laboratorio parte 2\primer parcial lab i parte 2\mostrar_servicios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"prototipos.h"
+
+1589381293 source:c:\users\facu\desktop\facultad\prog i - lab i\trabajos por git\primer parcial laboratorio parte 2\primer parcial lab i parte 2\mostrar_tipos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"prototipos.h"
+
+1589983735 source:c:\users\facu\desktop\facultad\prog i - lab i\trabajos por git\primer parcial laboratorio parte 2\primer parcial lab i parte 2\alta_trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"prototipos.h"
+
+1589975772 source:c:\users\facu\desktop\facultad\prog i - lab i\trabajos por git\primer parcial laboratorio parte 2\primer parcial lab i parte 2\buscar_libre_trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"prototipos.h"
+
+1589985159 source:c:\users\facu\desktop\facultad\prog i - lab i\trabajos por git\primer parcial laboratorio parte 2\primer parcial lab i parte 2\inicializar_trabajos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"prototipos.h"
+
+1589985017 source:c:\users\facu\desktop\facultad\prog i - lab i\trabajos por git\primer parcial laboratorio parte 2\primer parcial lab i parte 2\mostrar_trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"prototipos.h"
+
+1589985338 source:c:\users\facu\desktop\facultad\prog i - lab i\trabajos por git\primer parcial laboratorio parte 2\primer parcial lab i parte 2\mostrar_trabajos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"prototipos.h"
+
+1589983750 source:c:\users\facu\desktop\facultad\prog i - lab i\trabajos por git\primer parcial laboratorio parte 2\primer parcial lab i parte 2\cargar_descripcion_servicios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"prototipos.h"
+
+1589983684 source:c:\users\facu\desktop\facultad\prog i - lab i\trabajos por git\primer parcial laboratorio parte 2\primer parcial lab i parte 2\informar.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"prototipos.h"
+
+1589983889 source:c:\users\facu\desktop\facultad\prog i - lab i\trabajos por git\primer parcial laboratorio parte 2\primer parcial lab i parte 2\menu_informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"prototipos.h"
+
+1589985674 source:c:\users\facu\desktop\facultad\prog i - lab i\trabajos por git\primer parcial laboratorio parte 2\primer parcial lab i parte 2\informar_notebook_x_marca.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"prototipos.h"
+
+1589985674 source:c:\users\facu\desktop\facultad\prog i - lab i\trabajos por git\primer parcial laboratorio parte 2\primer parcial lab i parte 2\informar_notebook_x_tipo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"prototipos.h"
+
+1589985898 source:c:\users\facu\desktop\facultad\prog i - lab i\trabajos por git\primer parcial laboratorio parte 2\primer parcial lab i parte 2\informar_mas_barata.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"prototipos.h"
+
+1589985898 source:c:\users\facu\desktop\facultad\prog i - lab i\trabajos por git\primer parcial laboratorio parte 2\primer parcial lab i parte 2\informar_notebooks_x_marcas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"prototipos.h"
+
+1589985674 source:c:\users\facu\desktop\facultad\prog i - lab i\trabajos por git\primer parcial laboratorio parte 2\primer parcial lab i parte 2\informar_notebook_x_marca_tipo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"prototipos.h"
+
+1589982949 source:c:\users\facu\desktop\facultad\prog i - lab i\trabajos por git\primer parcial laboratorio parte 2\primer parcial lab i parte 2\marca_mas_elegidas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"prototipos.h"
+
